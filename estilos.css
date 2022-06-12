@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color : #000012;
+    background-color : #00001d;
 }
 
 header{
@@ -13,17 +13,19 @@ header{
 
 .Titulo{
     border-style:inset;
-    border-color:rgb(45, 186, 221);
+    border-color:rgba(134, 249, 247, 0.913);
     color: rgb(252, 218, 25);
     font-family:Georgia, Times, 'Times New Roman', serif;
-    display: inline;
+    display:inline-block;
+    padding: 13px; 
 }
 
 .AC80-imagen{
     border-radius: 50px;
     border-style:inset;
-    border-color:rgb(226, 220, 42);
+    border-color:rgba(159, 217, 246, 0.913);
     width: 600px;
+    margin: 18px;
 }
 
 .texto-Principal{
@@ -38,5 +40,5 @@ header{
     color: rgb(255, 255, 250)
 }
 p{
-    display: inline;
+    display:inline;
 }
