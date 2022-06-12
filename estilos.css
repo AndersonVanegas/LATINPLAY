@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#unico{
+    color: rgb(45, 186, 221);
+}
+
+.multiusos{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 640px;
+    
+}
+
+.otracosa{
+    color: rgb(45, 186, 221);
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    font-size: 14px;
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 40px;
+}
+body {
+    background-color: #000012
+}
+
+.Titulo {
+    border-style:inset;
+    border-color:rgb(45, 186, 221);
+    
+    color: rgb(252, 218, 25);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    
+}
+.AC80-imagen {
+    border-radius: 110px;
+    border-style:inset;
+    border-color:rgb(45, 186, 221);
+    width: 600px;
+}
