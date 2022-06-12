@@ -16,13 +16,13 @@ header{
     border-color:rgb(45, 186, 221);
     color: rgb(252, 218, 25);
     font-family:Georgia, Times, 'Times New Roman', serif;
-    display: inline-block;
+    display: inline;
 }
 
 .AC80-imagen{
     border-radius: 50px;
     border-style:inset;
-    border-color:rgb(45, 186, 221);
+    border-color:rgb(226, 220, 42);
     width: 600px;
 }
 
@@ -36,4 +36,7 @@ header{
 
 .Text-Main{
     color: blue
+}
+p{
+    display: inline;
 }
